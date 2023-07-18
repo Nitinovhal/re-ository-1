@@ -7,7 +7,7 @@ pipeline{
     stages{
         stage('checkout'){     
          steps{
-             git branch: 'main', url: 'https://github.com/zielotechtest/web-app-maven.git'
+             git branch: 'main', url: 'https://https://github.com/Nitinovhal/re-ository-1.git'
               }    
            }
          
